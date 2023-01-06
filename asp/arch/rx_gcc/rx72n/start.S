@@ -9,6 +9,7 @@
 ;*              Graduate School of Information Science, Nagoya Univ., JAPAN
 ;*  Copyright (C) 2008-2010 by Witz Corporation, JAPAN
 ;*  Copyright (C) 2015 by Hisashi Hata, JAPAN
+;*  Copyright (C) 2022 wolfSSL Inc.
 ;* 
 ;*  上記著作権者は，Free Software Foundation によって公表されている 
 ;*  GNU General Public License の Version 2 に記述されている条件か，以
