@@ -5,6 +5,7 @@
  * 
  *  Copyright (C) 2010 by Witz Corporation, JAPAN
  *  Copyright (C) 2015- by Hisashi Hata, JAPAN
+ *  Copyright (C) 2022 wolfSSL Inc.
  * 
  *  上記著作権者は，以下の(1)〜(4)の条件を満たす場合に限り，本ソフトウェ
  *  ア（本ソフトウェアを改変したものを含む．以下同じ）を使用・複製・改
